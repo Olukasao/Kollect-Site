@@ -1,0 +1,22 @@
+{
+  "name": "kollect-site",
+  "version": "1.0.0",
+  "description": "Site da Kollect",
+  "scripts": {
+    "images": "node scripts/images.mjs",
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "check": "node scripts/build.mjs && node scripts/check.mjs && html-validate dist/index.html",
+    "shots": "node scripts/screenshots.mjs",
+    "sync": "node scripts/sync-store.mjs",
+    "video": "node scripts/video.mjs"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@phosphor-icons/core": "^2.1.1",
+    "html-validate": "^11.16.2",
+    "playwright-core": "^1.64.0",
+    "sharp": "^0.35.5"
+  },
+  "private": true
+}
