@@ -1,0 +1,391 @@
+{
+  "tanjiro-kamado-sentado": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "kyojuro-rengoku-sentado": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "nezuko-kamado-sentada": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "zenitsu-agatsuma-sentado": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "shinobu-kocho-sentada": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "inosuke-hashibira-sentado": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "mitsuri-kanroji-sentada": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "charizard": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "pikachu": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "zenitsu-grandista-another": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "akaza-koyuki": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "zenitsu-estatua-gk": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "akaza-figure-realista": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "akaza-efeitos": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "eren-mikasa": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "frieren-himmel": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "obanai-iguro-chibi": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "sanemi-shinazugawa-chibi": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "mitsuri-kanroji-chibi": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "nezuko-kamado-chibi": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "zenitsu-agatsuma-chibi": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "inosuke-hashibira-chibi": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "taca-copa-do-mundo": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "porta-lata-brasil": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "universo-demon-slayer": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false,
+    "tint": "rgb(70 51 52)"
+  },
+  "universo-stranger-things": {
+    "width": 1024,
+    "height": 1024,
+    "widths": [
+      360,
+      720
+    ],
+    "lightBackground": false,
+    "tint": "rgb(70 51 56)"
+  },
+  "universo-marvel": {
+    "width": 1024,
+    "height": 1280,
+    "widths": [
+      360,
+      720
+    ],
+    "lightBackground": false,
+    "tint": "rgb(70 47 31)"
+  },
+  "universo-futebol": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false,
+    "tint": "rgb(70 58 22)"
+  },
+  "categoria-figures": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "categoria-funkos": {
+    "width": 532,
+    "height": 532,
+    "widths": [
+      360,
+      532
+    ],
+    "lightBackground": true
+  },
+  "categoria-pecas-3d": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "categoria-tcg": {
+    "width": 1080,
+    "height": 1215,
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "lightBackground": false
+  },
+  "categoria-diecast": {
+    "width": 1080,
+    "height": 510,
+    "widths": [
+      360,
+      720
+    ],
+    "lightBackground": false
+  },
+  "akaza-koyuki-koyuki": {
+    "width": 1400,
+    "height": 1400,
+    "widths": [
+      480,
+      800,
+      1080
+    ]
+  },
+  "akaza-koyuki-quimono": {
+    "width": 1300,
+    "height": 1300,
+    "widths": [
+      480,
+      800,
+      1080
+    ]
+  },
+  "akaza-koyuki-akaza": {
+    "width": 1080,
+    "height": 608,
+    "widths": [
+      480,
+      800,
+      1080
+    ]
+  },
+  "tcg-charizard": {
+    "width": 1009,
+    "height": 1261,
+    "widths": [
+      400,
+      800
+    ]
+  },
+  "tcg-pikachu": {
+    "width": 1009,
+    "height": 1261,
+    "widths": [
+      400,
+      800
+    ]
+  },
+  "tcg-verso": {
+    "width": 1009,
+    "height": 1261,
+    "widths": [
+      400,
+      800
+    ]
+  },
+  "erro-404-cena": {
+    "width": 920,
+    "height": 1040,
+    "widths": [
+      480,
+      800
+    ]
+  }
+}
