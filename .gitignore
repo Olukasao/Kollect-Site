@@ -4,3 +4,4 @@ screenshots/
 .playwright-cli/
 /*.png
 scripts/_*
+.vercel/

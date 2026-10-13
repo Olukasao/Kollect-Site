@@ -18,6 +18,13 @@ Para publicar, envie o conteúdo de `dist/` para qualquer hospedagem estática. 
 absolutos (`/img/...`), então o site precisa estar na raiz do domínio; Netlify, Vercel, Cloudflare Pages e
 GitHub Pages servem esse arquivo automaticamente em endereços inexistentes.
 
+### Vercel
+
+O `vercel.json` já configura tudo (instalação `npm ci`, build `npm run build`, saída `dist/`).
+Em vercel.com: **Add New → Project**, importe o repositório `olukasao/kollect-site` e clique em **Deploy**,
+sem mudar nada. Cada push na branch principal publica de novo; outras branches geram links de prévia.
+Depois de ter o domínio, preencha `url` em `content/site.js`.
+
 ## Onde editar
 
 - `content/site.js`: canais de atendimento (WhatsApp, Instagram, e-mail, Shopee), etapas da encomenda, políticas e domínio.
