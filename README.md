@@ -1,5 +1,7 @@
 # Kollect — site
 
+**🌐 Acesse o site: [kollect-site.vercel.app](https://kollect-site.vercel.app)**
+
 Site estático da Kollect. O HTML é gerado a partir dos arquivos em `content/`, sem framework.
 
 ## Comandos
